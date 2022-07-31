@@ -1,0 +1,8 @@
+train: E:/CodeRepository/python/YoloHelmet/yolov5/VOC_test1/dataSet_path/train.txt
+val: E:/CodeRepository/python/YoloHelmet/yolov5/VOC_test1/dataSet_path/val.txt
+
+# number of classes
+nc: 2
+
+# class names
+names: ["head", "helmet"]
